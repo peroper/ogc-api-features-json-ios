@@ -7,7 +7,7 @@
 //
 
 #import "OAFFeaturesObject.h"
-#import "SFGOrderedDictionary.h"
+#import <sf_geojson_ios/sf_geojson_ios.h>
 
 @implementation OAFFeaturesObject
 

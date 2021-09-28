@@ -7,11 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <sf_ios/sf_ios.h>
 #import "OAFFeaturesObject.h"
 #import "OAFCollections.h"
 #import "OAFCollection.h"
 #import "OAFFeatureCollection.h"
-#import "SFGeometry.h"
 #import "OAFSpatial.h"
 #import "OAFTemporal.h"
 #import "OAFExtent.h"

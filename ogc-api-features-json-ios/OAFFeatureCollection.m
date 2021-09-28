@@ -8,7 +8,7 @@
 
 #import "OAFFeatureCollection.h"
 #import "OAFFeaturesConverter.h"
-#import "SFGFeatureConverter.h"
+#import <sf_geojson_ios/sf_geojson_ios.h>
 
 NSString * const OAF_LINKS = @"links";
 NSString * const OAF_TIME_STAMP = @"timeStamp";

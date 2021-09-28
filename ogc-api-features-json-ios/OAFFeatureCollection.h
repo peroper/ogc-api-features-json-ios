@@ -7,7 +7,7 @@
 //
 
 #import "OAFFeaturesObject.h"
-#import "SFGFeatureCollection.h"
+#import <sf_geojson_ios/sf_geojson_ios.h>
 #import "OAFLink.h"
 
 /**

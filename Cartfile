@@ -1,0 +1,3 @@
+
+github "peroper/simple-features-geojson-ios" "carthage-support"
+github "peroper/simple-features-ios" "carthage-support"

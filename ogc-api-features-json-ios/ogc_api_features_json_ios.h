@@ -6,8 +6,13 @@
 //  Copyright (c) 2019 NGA. All rights reserved.
 //
 
-#ifndef ogc_api_features_json_ios_ogc_api_features_json_ios_h
-#define ogc_api_features_json_ios_ogc_api_features_json_ios_h
-
-
-#endif
+#import <ogc_api_features_json_ios/OAFCollection.h>
+#import <ogc_api_features_json_ios/OAFCollections.h>
+#import <ogc_api_features_json_ios/OAFCrs.h>
+#import <ogc_api_features_json_ios/OAFExtent.h>
+#import <ogc_api_features_json_ios/OAFFeatureCollection.h>
+#import <ogc_api_features_json_ios/OAFFeaturesConverter.h>
+#import <ogc_api_features_json_ios/OAFFeaturesObject.h>
+#import <ogc_api_features_json_ios/OAFLink.h>
+#import <ogc_api_features_json_ios/OAFSpatial.h>
+#import <ogc_api_features_json_ios/OAFTemporal.h>
