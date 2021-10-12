@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "simple-features-geojson-ios",
+        "repositoryURL": "git@github.com:peroper/simple-features-geojson-ios.git",
+        "state": {
+          "branch": "spm-support",
+          "revision": "6fb4010970de5df96645a46487003a37393d4c07",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
